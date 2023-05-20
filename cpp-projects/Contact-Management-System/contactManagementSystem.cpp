@@ -9,7 +9,7 @@
 using namespace std;
 void showContacts();        // displays all contacts from the file
 void searchContact();       // search contacts from file
-int count_contacts(string); // counts no. of contacts present in the ContactBook
+int count_contacts(string); // counts the number of contacts present in the ContactBook
 void get_input(string *Name, string *Mobile);
 class Person
 {
